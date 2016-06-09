@@ -21,6 +21,7 @@ print(sorted_country)
 for each_country in sorted_country:
     print(each_country)
 
+
 #DICTIONARIES
 #question 1
 tree= {'name':'Drago milenario', 'species':'Dracaena draco', 'age': 15, 'location_name':'Icod de los Vinos, Tenerife', 'latitude':28.20, 'longitude':16.42}
