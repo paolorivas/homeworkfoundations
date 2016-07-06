@@ -1,0 +1,4 @@
+Grade: 9 / 10 
+
+It looks like there's an error for the question: "In which zip codes can I find a lilac-colored tabby?" It seems that one of your variables needs to be cast as a string in order to be processed. Let me know if you have any questions in lab! 
+
