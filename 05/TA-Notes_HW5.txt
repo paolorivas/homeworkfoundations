@@ -1,0 +1,5 @@
+Grade: 14 / 16
+
+Good job!
+
+A few errors appear when you are calculating the average popularity of explicit adn clean songs -- the popularity scores are not above 100 each, but your average score is > 100. 
